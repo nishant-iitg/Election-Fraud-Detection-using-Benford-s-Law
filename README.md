@@ -1,4 +1,4 @@
-# Benfords-Law-Presidential-Elections
+# Election-Fraud-Detection-using-Benford-s-Law
 Dataset Sources:
 
    2016: https://raw.githubusercontent.com/tonmcg/US_County_Level_Election_Results_08-20/master/2016_US_County_Level_Presidential_Results.csv
